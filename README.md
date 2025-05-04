@@ -1,6 +1,6 @@
 # Autoencoder
 
-# Autoencoder Architectures on MNIST using TensorFlow
+## Autoencoder Architectures on MNIST using TensorFlow
 
 This repository demonstrates various types of **Autoencoders** implemented using **TensorFlow** and trained on the **MNIST** handwritten digits dataset.
 
