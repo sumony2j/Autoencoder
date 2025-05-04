@@ -88,7 +88,7 @@ pip install tensorflow numpy pandas matplotlib
 ## 🛠️ Framework
 
 - Implemented using **TensorFlow 2.x**
-- Developed entirely in a single Jupyter notebook: `Autoencoder.ipynb`
+- Jupyter notebook: `Autoencoder.ipynb`
 
 ---
 
